@@ -1,0 +1,92 @@
+.body2{
+    background-image: linear-gradient(to bottom,rgb(125, 146, 148), rgb(205, 177, 205));
+ }
+
+
+ .arrow {
+   
+    color: rgb(61, 32, 61) ;
+  }
+  
+
+
+
+
+.generianalisi{padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid rgb(75, 64, 75);
+    background: transparent;
+    color: rgb(61, 32, 61) ;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.elenco{font-size: 20px;font-weight: bold;color:rgb(51, 51, 51);text-align:left;}
+
+.serieselezionate{padding: 15px 0;
+ text-align: center;
+ margin: 20px 10px;
+ border-radius: 25px;
+ font-weight: bold;
+ border: 2px solid rgb(75, 64, 75);
+ background: transparent;
+ color:rgb(61, 32, 61) ;
+ cursor: pointer;
+ position: relative;
+ overflow: hidden;}
+
+
+.swat{padding-left:250px;}
+.thegoodplace{padding-left:100px ;}
+.blackmirror{padding-left:100px ;}
+.strangert{padding-left:100px;}
+
+.sabrina{padding-left:250px;}
+.tu{padding-left:100px ;}
+.high{padding-left:95px ;}
+.ourp{padding-left:85px;}
+
+
+.linkswat{text-align:left;padding-left:300px;color:rgb(75, 64, 75);}
+.linkthegoodplace{padding-left:165px;color:rgb(75, 64, 75);}
+.linkblackmirror{padding-left:155px;color:rgb(75, 64, 75);}
+.linkstrangert{padding-left:150px;color:rgb(75, 64, 75);}
+
+
+
+.linksabrina{text-align:left;padding-left:230px;color:rgb(75, 64, 75);}
+.linktu{padding-left:70px;color:rgb(75, 64, 75);} 
+.linkhigh{padding-left:100px;color:rgb(75, 64, 75);}
+.linkourp{padding-left:150px;color:rgb(75, 64, 75);}
+
+
+.paragrafo{
+    color:rgb(55, 54, 54);text-align: center;
+
+}
+
+.personaggi{font-weight: bold;text-align: left;}
+.paragrafo1{text-align:left;color:rgb(55, 54, 54);}
+
+.container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  }
+  
+  /* Then style the iframe to fit in the container div with full height and width */
+  .responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
